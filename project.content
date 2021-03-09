@@ -1,0 +1,13 @@
+https%3A%2F%2Fwww.test-insurance.com\getUserService.xml
+https%3A%2F%2Fwww.test-insurance.com\createUserRequest.xml
+https%3A%2F%2Fwww.test-insurance.com\uppdateUserRequest.xml
+https%3A%2F%2Fwww.test-insurance.com\deleteUserRequest.xml
+https%3A%2F%2Fwww.test-insurance.com\paymentRequest.xml
+https%3A%2F%2Fwww.test-insurance.com\secondary-userRequest.xml
+Insuranse-Test-suite\CreateUser-test-Case.xml
+Insuranse-Test-suite\RemoveUser-Test-Case.xml
+Insuranse-Test-suite\AddSecondaryUser-Test-Case.xml
+Insuranse-Test-suite\Add-paymentToExistingUser.xml
+Insuranse-Test-suite\GetUserByID.xml
+Insuranse-Test-suite\CreateDuplicateUYser-Negative-Test-Case.xml
+Insuranse-Test-suite\UpdateSecondaryUser.xml

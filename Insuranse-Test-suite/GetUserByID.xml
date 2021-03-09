@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="a72f739d-f715-4817-a088-c0bf3c1a78e5" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="GetUserByID" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="a72f739d-f715-4817-a088-c0bf3c1a78e5fileName">GetUserByID</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>

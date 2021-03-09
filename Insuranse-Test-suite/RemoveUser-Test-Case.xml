@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="c49abe0d-049d-458a-a202-a58ab9e0f371" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="RemoveUser Test Case" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="c49abe0d-049d-458a-a202-a58ab9e0f371fileName">RemoveUser-Test-Case</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>
